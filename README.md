@@ -18,8 +18,9 @@
 ![mysql](https://img.shields.io/badge/Mysql-05122A?style=flat&logo=mysql)
 ![photoshop](https://img.shields.io/badge/Photoshop-05122A?style=flat&logo=adobephotoshop)
 
-## 🔗 My Links
-Finding me:<br/>
-- [![mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iamlucas.mlima@gmail.com)<br/>
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-martins-lima/)<br/>
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LSguish?tab=repositories)
+## 🔗 Contact
+
+[![mail](https://img.shields.io/badge/Gmail-05122A?style=flat&logo=gmail)](mailto:iamlucas.mlima@gmail.com)
+[![instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/lsguish/)
+[![linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-martins-lima/)
+[![github](https://img.shields.io/badge/Github-05122A?style=flat&logo=github)](https://github.com/LSguish?tab=repositories)
