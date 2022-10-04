@@ -4,9 +4,9 @@
 
 ## 🔍️ About me
 
-- 🎓 Graduated in Accounting Sciences at [UCS](https://www.ucs.br/site/) <br>
-- 💻 Work with IT Support <br>
-- 📝 I've been studying web development since 2019, currently at [Rocketseat](https://www.rocketseat.com.br/)
+- 🎓 Graduated in Accounting Sciences at [UCS](https://www.ucs.br/site/)
+- 💻 Work with IT Support
+- 📝 Studying web development since 2019, currently at [Rocketseat](https://www.rocketseat.com.br/)
 
 ## 🚀 Tech Stack
 
